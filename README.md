@@ -1,6 +1,6 @@
 # Python Data Science Tutorial 🐍📊
 
-Welcome to our Python Data Science Tutorial repository! Here you'll find resources and code from the YouTube tutorial [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib) that was made by Maxwell Armi covering various topics such as NumPy, Pandas, and Matplotlib.
+Welcome to our Python Data Science Tutorial repository! Here you'll find resources and code from the YouTube tutorial [Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)](https://www.youtube.com/watch?v=LHBE6Q9XlzI) that was made by Maxwell Armi covering various topics such as NumPy, Pandas, and Matplotlib.
 
 ## Overview
 
